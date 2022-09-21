@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyiN77X9vBYq+ZgEykRD3m7LVnu8f8EFmaHH6nAve9kOCpCUXYc1akrjsTDfUTg+tKBlKlLgD1EHEwnyzZuQbg==",
+  "dgSpecHash": "O1PXlI+On+iugm4Kn0oH7Lfg7R072B0MPPSPtTH4cardTA2he5kCcuaMWM51+6pDXqsdT8LzapwNKeSJR0lG6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CarlosDuarte\\Documents\\SoftwareProjects\\Angular\\FullStackUI\\FullStack.API\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
+  "projectFilePath": "C:\\Users\\CarlosDuarte\\Documents\\SoftwareProjects\\Mix\\FullStackWebApp_DotNetCore_Angular_Qt\\FullStack.API.DotNetCore.SqlServer\\FullStack.API\\FullStack.API\\FullStack.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CarlosDuarte\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\CarlosDuarte\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
